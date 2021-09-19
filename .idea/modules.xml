@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CombineArray/CombineArray.iml" filepath="$PROJECT_DIR$/CombineArray/CombineArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GopMang.iml" filepath="$PROJECT_DIR$/.idea/GopMang.iml" />
+    </modules>
+  </component>
+</project>
